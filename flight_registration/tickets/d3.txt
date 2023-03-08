@@ -1,0 +1,13 @@
+
+Date of registration: Mon Nov 21 20:48:24 2022
+Date and time of departure: Sun 20 Dec 2022 14:00
+Route: FROM Cape Town International Airport TO London Internation Airport
+Flight nr: flight_251122_Lon_CT_2012222
+Ticket ID: flight_251122_Lon_CT_2012222_pass167
+
+Name: Kay
+Surname: Hsn
+Age: 45
+Cellphone nr: 342564
+Price: R20000
+Estimated flight duration: 4 hours

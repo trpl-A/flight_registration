@@ -1,0 +1,29 @@
+
+make this program specific to an airplane
+
+
+- add a confirmation aspect to the seat selection process
+eg. (are you sure)
+
+- print a ticket with details (name, age, flight number, date, time of departure, estimated duration, seat number, phone number, price, location)
+
+- have a graphical setup that omits occupied seats
+    - have info or spaces  that indicates the ailes, windows, etc
+
+- maybe decrease the number of seats
+
+- maybe have an aspect that sends the ticket to the user's email for example or phone number
+
+- change the end message to something like 'your seat has been reserved'
+
+- have a folder/ dir that consists of a list of tickets
+
+- have a function/ algorithm that deletes a ticket if a patron wishes to delete/cancel or change a seat number
+
+- ask to personal info first, then display the seat layout
+
+
+BUGS
+
+- when entering a seat number, the flow of the code doesnt work as intended
+
